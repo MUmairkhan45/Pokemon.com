@@ -1,0 +1,128 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.main{
+    margin: 0%;
+    width: 100%;
+    
+   position: fixed;
+   z-index: 2;
+    background-color: #ffffff;
+}
+.main ul{
+    
+    list-style: none;
+    padding-left: 160px;
+    
+    
+}
+.main li{
+    
+    display: inline-flex;
+    list-style: none;
+    padding-left: 15px;
+}
+.main a{
+    text-decoration: none;
+    
+
+
+}
+
+
+.desc{
+    text-align: center;
+    color: hsl(0, 2%, 36%);
+    
+}
+.g{
+    padding: 20px;
+
+
+    border-bottom: 5px solid gray;
+}
+.g:hover {
+    background-color: gray; 
+        color: white; 
+}
+.R{
+    padding: 20px;
+    
+    border-bottom: 5px solid #ff5353;
+}
+.R:hover:hover {
+    background-color: #ff5353;
+    color: white;
+}
+.O{
+    padding-right: 20px;
+    padding-bottom: 2px;
+    padding-top: 3px ;
+    padding-left: 10px;
+    
+    border-bottom: 5px solid #fc8c30;
+}
+.O:hover {
+    background-color:#fc8c30;
+    color: white; 
+}
+.go{
+    padding: 20px;
+    
+    border-bottom: 5px solid #dae907;
+}
+.go:hover {
+    background-color: #dae907;
+    color: white;
+}
+.gr{
+    padding: 20px;
+
+    border-bottom: 5px solid #27c94f;
+}
+.gr:hover {
+    background-color: #27c94f;
+    color: white;
+}
+.sk{
+    padding-right: 20px;
+    padding-bottom: 2px;
+    padding-top: 3px ;
+
+    border-bottom: 5px solid #23e4eb;
+}
+.sk:hover {
+    background-color: #23e4eb; 
+    color: white;
+}
+.b{
+    padding-right: 0px;
+    padding-bottom: 20px;
+    padding-top: 3px ;
+    
+    border-bottom: 5px solid #1779c9;
+}
+.b:hover {
+    background-color:#1779c9; 
+    color: white;
+}
+.f{
+    background-color: black;
+    margin-top: 1800px;
+    
+    }
+    .f ul{
+        padding-bottom: 20px;
+        
+    }
+    .f li{
+    list-style: none;}
+    
+    .f a{
+        text-decoration: none;
+        color: #cec9c9;
+    }
+
+  
